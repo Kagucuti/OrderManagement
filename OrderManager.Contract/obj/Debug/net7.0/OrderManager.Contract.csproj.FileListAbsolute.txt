@@ -1,0 +1,15 @@
+C:\Users\yyarm\source\repos\OrderManager.Contract\bin\Debug\net7.0\OrderManager.Contract.deps.json
+C:\Users\yyarm\source\repos\OrderManager.Contract\bin\Debug\net7.0\OrderManager.Contract.dll
+C:\Users\yyarm\source\repos\OrderManager.Contract\bin\Debug\net7.0\OrderManager.Contract.pdb
+C:\Users\yyarm\source\repos\OrderManager.Contract\bin\Debug\net7.0\OrderManager.Domain.dll
+C:\Users\yyarm\source\repos\OrderManager.Contract\bin\Debug\net7.0\OrderManager.Domain.pdb
+C:\Users\yyarm\source\repos\OrderManager.Contract\obj\Debug\net7.0\OrderManager.Contract.csproj.AssemblyReference.cache
+C:\Users\yyarm\source\repos\OrderManager.Contract\obj\Debug\net7.0\OrderManager.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyarm\source\repos\OrderManager.Contract\obj\Debug\net7.0\OrderManager.Contract.AssemblyInfoInputs.cache
+C:\Users\yyarm\source\repos\OrderManager.Contract\obj\Debug\net7.0\OrderManager.Contract.AssemblyInfo.cs
+C:\Users\yyarm\source\repos\OrderManager.Contract\obj\Debug\net7.0\OrderManager.Contract.csproj.CoreCompileInputs.cache
+C:\Users\yyarm\source\repos\OrderManager.Contract\obj\Debug\net7.0\OrderManager.Contract.csproj.CopyComplete
+C:\Users\yyarm\source\repos\OrderManager.Contract\obj\Debug\net7.0\OrderManager.Contract.dll
+C:\Users\yyarm\source\repos\OrderManager.Contract\obj\Debug\net7.0\refint\OrderManager.Contract.dll
+C:\Users\yyarm\source\repos\OrderManager.Contract\obj\Debug\net7.0\OrderManager.Contract.pdb
+C:\Users\yyarm\source\repos\OrderManager.Contract\obj\Debug\net7.0\ref\OrderManager.Contract.dll

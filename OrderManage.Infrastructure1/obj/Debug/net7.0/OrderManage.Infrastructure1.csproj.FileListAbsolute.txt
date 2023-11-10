@@ -1,0 +1,17 @@
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\bin\Debug\net7.0\OrderManage.Infrastructure1.deps.json
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\bin\Debug\net7.0\OrderManage.Infrastructure1.runtimeconfig.json
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\bin\Debug\net7.0\OrderManage.Infrastructure1.dll
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\bin\Debug\net7.0\OrderManage.Infrastructure1.pdb
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\bin\Debug\net7.0\OrderManager.Domain.dll
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\bin\Debug\net7.0\OrderManager.Domain.pdb
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\obj\Debug\net7.0\OrderManage.Infrastructure1.csproj.AssemblyReference.cache
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\obj\Debug\net7.0\OrderManage.Infrastructure1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\obj\Debug\net7.0\OrderManage.Infrastructure1.AssemblyInfoInputs.cache
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\obj\Debug\net7.0\OrderManage.Infrastructure1.AssemblyInfo.cs
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\obj\Debug\net7.0\OrderManage.Infrastructure1.csproj.CoreCompileInputs.cache
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\obj\Debug\net7.0\OrderManage.Infrastructure1.csproj.CopyComplete
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\obj\Debug\net7.0\OrderManage.Infrastructure1.dll
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\obj\Debug\net7.0\refint\OrderManage.Infrastructure1.dll
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\obj\Debug\net7.0\OrderManage.Infrastructure1.pdb
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\obj\Debug\net7.0\OrderManage.Infrastructure1.genruntimeconfig.cache
+C:\Users\yyarm\source\repos\OrderManage.Infrastructure1\obj\Debug\net7.0\ref\OrderManage.Infrastructure1.dll

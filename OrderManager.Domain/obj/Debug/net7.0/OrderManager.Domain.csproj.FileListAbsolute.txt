@@ -1,0 +1,14 @@
+C:\Users\yyarm\source\repos\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.deps.json
+C:\Users\yyarm\source\repos\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.dll
+C:\Users\yyarm\source\repos\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.pdb
+C:\Users\yyarm\source\repos\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyarm\source\repos\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.AssemblyInfoInputs.cache
+C:\Users\yyarm\source\repos\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.AssemblyInfo.cs
+C:\Users\yyarm\source\repos\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yyarm\source\repos\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.dll
+C:\Users\yyarm\source\repos\OrderManager.Domain\obj\Debug\net7.0\refint\OrderManager.Domain.dll
+C:\Users\yyarm\source\repos\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.pdb
+C:\Users\yyarm\source\repos\OrderManager.Domain\obj\Debug\net7.0\ref\OrderManager.Domain.dll
+C:\Users\yyarm\source\repos\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.runtimeconfig.json
+C:\Users\yyarm\source\repos\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.csproj.AssemblyReference.cache
+C:\Users\yyarm\source\repos\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.genruntimeconfig.cache
